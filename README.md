@@ -1,3 +1,3 @@
 # SpGEMM
 
-SpGEMM using Hornet (Triangle Counting)
+SpGEMM using Hornet https://github.com/rapidsai/cuhornet (Triangle Counting)
